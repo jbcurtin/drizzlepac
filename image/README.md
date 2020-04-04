@@ -1,4 +1,4 @@
-# DrizzelPac Docker Build
+# 'drizzlepac' Docker Build
 
 Migrating `drizzlepac` to use a Dockerfile provides Engineers to setup and run code locally fast for debugging or have a script that'll instruct the Engineer on how to build packages from source without having to learn a crypt build DSL
 
